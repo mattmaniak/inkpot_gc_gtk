@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Gynvael Coldwind's "inkpot_gc" theme for Vim/Sublime ported to GTK editors.
+This is only theme, not full config based on screenshots from stream.
+Some colors may be vary with Vim's original due the optimization for gedit.
+
+Worth seeing:
+http://gynvael.coldwind.pl/
+https://www.youtube.com/user/GynvaelEN
+https://www.youtube.com/user/GynvaelColdwind
+
+Message included in his config:
+
+<quote>
+	Vim color file
+	Name:       inkpot.vim
+	Maintainer: Ciaran McCreesh <ciaran.mccreesh@googlemail.com>
+	Homepage:   http://github.com/ciaranm/inkpot/
+
+	This version contains minor color changes by Gynvael Coldwind. You can find
+	the original version made by Ciaran at http://github.com/ciaranm/inkpot/
+	(check it out, it's great!).
+</quote>
+-->
+
+<style-scheme id="inkpot_gc_gtk" _name="inkpot_gc_gtk" version="1.0">
+
+	<!--All colors-->
+	<color name="bright_purple" value="#554D86"/>
+	<color name="dark_purple" value="#1C1D37"/>
+	<color name="green" value="#75B69C"/>
+	<color name="blue" value="#4D727F"/>
+	<color name="intense_green" value="#33B441"/>
+	<color name="orange" value="#E0A98C"/>
+	<color name="pink" value="#EEACEE"/>
+	<color name="purple" value="#413970"/>
+	<color name="white" value="#EEEEEE"/>
+
+	<!--Global styles-->
+	<style name="bracket-match" foreground="orange"/>
+	<style name="cursor" foreground="green"/>
+	<style name="current-line" background="bright_purple"/>
+	<style name="line-numbers" foreground="bright_purple" background="purple"/>
+	<style name="selection" foreground="white" background="purple"/>
+	<style name="text" foreground="green" background="dark_purple"/>
+
+	<!--Syntax highlighting-->
+	<style name="def:comment" foreground="intense_green"/>
+	<style name="def:constant" foreground="orange"/>
+	<style name="def:shebang" foreground="green"/> <!--May not work.-->
+	<style name="def:preprocessor" foreground="blue"/>
+	<style name="def:string" foreground="orange"/>
+	<style name="def:type" foreground="pink"/>
+
+</style-scheme>
+
