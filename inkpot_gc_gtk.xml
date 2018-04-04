@@ -26,21 +26,22 @@ Message included in his config:
 
 <style-scheme id="inkpot_gc_gtk" _name="inkpot_gc_gtk" version="1.0">
 
-	<!--All colors-->
-	<color name="bright_purple" value="#554D86"/>
+	<!--Main colors-->
+	<color name="bright_purple" value="#9898D2"/>
 	<color name="dark_purple" value="#1C1D37"/>
-	<color name="green" value="#75B69C"/>
+	<color name="green" value="#78B99A"/>
 	<color name="blue" value="#4D727F"/>
 	<color name="intense_green" value="#33B441"/>
 	<color name="orange" value="#E0A98C"/>
 	<color name="pink" value="#EEACEE"/>
-	<color name="purple" value="#413970"/>
-	<color name="white" value="#EEEEEE"/>
+	<color name="purple" value="#322C55"/>
+	<color name="purple_chrome" value="#D0D1F7"/>
+	<color name="white" value="#DDDDDD"/>
 
 	<!--Global styles-->
 	<style name="bracket-match" foreground="orange"/>
 	<style name="cursor" foreground="green"/>
-	<style name="current-line" background="bright_purple"/>
+	<style name="current-line" background="#4C4472"/> <!--Readable color.-->
 	<style name="line-numbers" foreground="bright_purple" background="purple"/>
 	<style name="selection" foreground="white" background="purple"/>
 	<style name="text" foreground="green" background="dark_purple"/>
@@ -48,6 +49,7 @@ Message included in his config:
 	<!--Syntax highlighting-->
 	<style name="def:comment" foreground="intense_green"/>
 	<style name="def:constant" foreground="orange"/>
+	<style name="def:statement" foreground="purple_chrome"/>
 	<style name="def:shebang" foreground="green"/> <!--May not work.-->
 	<style name="def:preprocessor" foreground="blue"/>
 	<style name="def:string" foreground="orange"/>
