@@ -35,11 +35,12 @@ Message included in his config:
 	<color name="green" value="#78B99A"/>
 	<color name="intense_green" value="#33B441"/>
 	<color name="orange" value="#F0AD6D"/>
-	<color name="pink" value="##FF8BFF"/>
+	<color name="pink" value="#FF8BFF"/>
 	<color name="purple" value="#322C55"/>
 	<color name="purple_chrome" value="#D0D1F7"/>
 	<color name="red" value="#6E2E2E"/>
 	<color name="white" value="#FFFFFF"/>
+	<color name="yellow" value="#FFFFCD"/>
 
 	<!--Global styles-->
 	<style name="bracket-match" foreground="orange"/>
@@ -56,10 +57,15 @@ Message included in his config:
 	<style name="def:number" foreground="orange"/>
 	<style name="def:preprocessor" foreground="blue"/>
 	<style name="def:shebang" foreground="green"/> <!--May not work.-->
-	<style name="def:special-char" foreground="bright_purple" background="grey"/>
-	<style name="def:statement" foreground="purple_chrome"/>
+	<style name="def:special-char" foreground="bright_purple" background="grey"
+	/><style name="def:statement" foreground="purple_chrome"/>
 	<style name="def:string" foreground="orange"/>
 	<style name="def:type" foreground="pink"/>
+
+	<!--Diff highlighting-->
+	<style name="diff:added-line" foreground="yellow" background="intense_green
+	"/><style name="diff:changed-line" foreground="yellow" background="blue"/>
+	<style name="diff:removed-line" foreground="yellow" background="red"/>
 
 </style-scheme>
 
