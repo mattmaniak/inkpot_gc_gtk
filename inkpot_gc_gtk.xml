@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!--
-Gynvael Coldwind's inkpot_gc theme for Vim/Sublime ported to GTK editors.
+Gynvael Coldwind's inkpot_gc theme for GVim/Sublime ported to GTK+ editors.
 This is only theme, not full config. Based on screenshots from stream.
 Some colors were taken directly from inkpot_gc.vim.
 Others may be vary with Vim/Sublime original due the optimization for gedit.
@@ -12,7 +12,6 @@ https://www.youtube.com/user/GynvaelEN
 https://www.youtube.com/user/GynvaelColdwind
 
 Message included in his config:
-
 <quote>
 	Vim color file
 	Name:       inkpot.vim
@@ -25,9 +24,10 @@ Message included in his config:
 </quote>
 -->
 
-<style-scheme id="inkpot_gc_gtk" _name="inkpot_gc_gtk" version="1.0">
+<style-scheme id="inkpot_gc_gtk" name="inkpot_gc_gtk" version="1.0">
 
 	<!--Main colors-->
+	<color name="black" value="#030303"/>
 	<color name="blue" value="#409090"/>
 	<color name="bright_purple" value="#9898D2"/>
 	<color name="dark_purple" value="#1C1D37"/>
@@ -45,9 +45,11 @@ Message included in his config:
 	<!--Global styles-->
 	<style name="bracket-match" foreground="orange"/>
 	<style name="cursor" foreground="green"/>
-	<style name="current-line" background="#4C4472"/> <!--Readable color.-->
+	<!--Current line - background similar to bright_purple.-->
+	<style name="current-line" background="#4C4472"/>
 	<style name="line-numbers" foreground="bright_purple" background="purple"/>
 	<style name="selection" foreground="white" background="purple"/>
+	<style name="search-match" foreground="black" background="orange"/>
 	<style name="text" foreground="green" background="dark_purple"/>
 
 	<!--Syntax highlighting-->
@@ -57,8 +59,8 @@ Message included in his config:
 	<style name="def:number" foreground="orange"/>
 	<style name="def:preprocessor" foreground="blue"/>
 	<style name="def:shebang" foreground="green"/> <!--May not work.-->
-	<style name="def:special-char" foreground="bright_purple" background="grey"
-	/><style name="def:statement" foreground="purple_chrome"/>
+	<style name="def:special-char" foreground="bright_purple"/>
+	<style name="def:statement" foreground="purple_chrome"/>
 	<style name="def:string" foreground="orange"/>
 	<style name="def:type" foreground="pink"/>
 
