@@ -43,10 +43,10 @@ Message included in his config:
 	<color name="yellow" value="#FFFFCD"/>
 
 	<!--Global styles-->
+	<style name="background-pattern" background="purple"/>
 	<style name="bracket-match" foreground="orange"/>
 	<style name="cursor" foreground="green"/>
-	<!--Current line - background similar to bright_purple.-->
-	<style name="current-line" background="#4C4472"/>
+	<style name="current-line" background="#4C4472"/><!--Light purple.-->
 	<style name="line-numbers" foreground="bright_purple" background="purple"/>
 	<style name="selection" foreground="white" background="purple"/>
 	<style name="search-match" foreground="black" background="orange"/>
@@ -58,7 +58,7 @@ Message included in his config:
 	<style name="def:error" foreground="white" background="red"/>
 	<style name="def:number" foreground="orange"/>
 	<style name="def:preprocessor" foreground="blue"/>
-	<style name="def:shebang" foreground="green"/> <!--May not work.-->
+	<style name="def:shebang" foreground="intense_green" bold="true"/>
 	<style name="def:special-char" foreground="bright_purple"/>
 	<style name="def:statement" foreground="purple_chrome"/>
 	<style name="def:string" foreground="orange"/>
