@@ -1,16 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 
 <!--
-Gynvael Coldwind's inkpot_gc theme for GVim/Sublime ported to GTK+ editors.
-This is only theme, not full config. Based on screenshots from stream.
-Some colors were taken directly from inkpot_gc.vim.
-Others may be vary with Vim/Sublime original due the optimization for gedit.
-
-Worth seeing:
-http://gynvael.coldwind.pl/
-https://www.youtube.com/user/GynvaelEN
-https://www.youtube.com/user/GynvaelColdwind
-
 Message included in his config:
 <quote>
 	Vim color file
