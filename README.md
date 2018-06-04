@@ -15,5 +15,5 @@ in comparison to GVim/Sublime original due the optimization for gedit.
 - https://www.youtube.com/user/GynvaelColdwind.
 
 ## In gedit
-![Screenshot](https://raw.githubusercontent.com/mattmaniak/inkpot_gc_gtk/master/theme.png)
+![Screenshot](https://gitlab.com/mattmaniak/inkpot_gc_gtk/raw/master/theme.png)
 
