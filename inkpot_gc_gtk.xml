@@ -15,7 +15,6 @@ Message included in his config:
 -->
 
 <style-scheme id="inkpot_gc_gtk" name="inkpot_gc_gtk" version="1.0">
-
 	<!--Main colors-->
 	<color name="black" value="#030303"/>
 	<color name="blue" value="#409090"/>
@@ -27,20 +26,22 @@ Message included in his config:
 	<color name="orange" value="#F0AD6D"/>
 	<color name="pink" value="#FF8BFF"/>
 	<color name="purple" value="#322C55"/>
-	<color name="purple_chrome" value="#D0D1F7"/>
+	<color name="chrome" value="#D0D1F7"/>
 	<color name="red" value="#6E2E2E"/>
 	<color name="white" value="#FFFFFF"/>
 	<color name="yellow" value="#FFFFCD"/>
 
 	<!--Global styles-->
 	<style name="background-pattern" background="purple"/>
-	<style name="bracket-match" foreground="orange"/>
+	<style name="bracket-match" foreground="pink"/>
 	<style name="cursor" foreground="green"/>
 	<style name="current-line" background="#4C4472"/><!--Light purple.-->
 	<style name="line-numbers" foreground="bright_purple" background="purple"/>
 	<style name="selection" foreground="white" background="purple"/>
 	<style name="search-match" foreground="black" background="orange"/>
 	<style name="text" foreground="green" background="dark_purple"/>
+	<style name="right-margin" foreground="bright_purple"
+	background="bright_purple"/>
 
 	<!--Syntax highlighting-->
 	<style name="def:comment" foreground="intense_green"/>
@@ -50,14 +51,14 @@ Message included in his config:
 	<style name="def:preprocessor" foreground="blue"/>
 	<style name="def:shebang" foreground="intense_green" bold="true"/>
 	<style name="def:special-char" foreground="bright_purple"/>
-	<style name="def:statement" foreground="purple_chrome"/>
+	<style name="def:statement" foreground="chrome"/>
 	<style name="def:string" foreground="orange"/>
 	<style name="def:type" foreground="pink"/>
 
 	<!--Diff highlighting-->
-	<style name="diff:added-line" foreground="yellow" background="intense_green
-	"/><style name="diff:changed-line" foreground="yellow" background="blue"/>
+	<style name="diff:added-line" foreground="yellow"
+	background="intense_green"/>
+	<style name="diff:changed-line" foreground="yellow" background="blue"/>
 	<style name="diff:removed-line" foreground="yellow" background="red"/>
-
 </style-scheme>
 
