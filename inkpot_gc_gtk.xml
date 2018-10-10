@@ -33,7 +33,7 @@ Message included in his config:
 
 	<!--Global styles-->
 	<style name="background-pattern" background="purple"/>
-	<style name="bracket-match" foreground="pink"/>
+	<style name="bracket-match" foreground="orange"/>
 	<style name="cursor" foreground="green"/>
 	<style name="current-line" background="#4C4472"/><!--Light purple.-->
 	<style name="line-numbers" foreground="bright_purple" background="purple"/>
