@@ -18,24 +18,24 @@ Message included in his config:
 	<!--Main colors-->
 	<color name="black" value="#030303"/>
 	<color name="blue" value="#409090"/>
-	<color name="bright_purple" value="#9898D2"/>
-	<color name="dark_purple" value="#1C1D37"/>
+	<color name="bright_purple" value="#8b8bcd"/>
+	<color name="dark_purple" value="#1b1c34"/>
 	<color name="grey" value="#404040"/>
-	<color name="green" value="#78B99A"/>
-	<color name="intense_green" value="#33B441"/>
-	<color name="orange" value="#F0AD6D"/>
-	<color name="pink" value="#FF8BFF"/>
-	<color name="purple" value="#322C55"/>
-	<color name="chrome" value="#D0D1F7"/>
-	<color name="red" value="#6E2E2E"/>
-	<color name="white" value="#FFFFFF"/>
-	<color name="yellow" value="#FFFFCD"/>
+	<color name="green" value="#6dcd76"/>
+	<color name="intense_green" value="#33b441"/>
+	<color name="orange" value="#ffa668"/>
+	<color name="pink" value="#f78ef3"/>
+	<color name="purple" value="#322c55"/>
+	<color name="chrome" value="#d0d1f7"/>
+	<color name="red" value="#6e2e2e"/>
+	<color name="white" value="#ffffff"/>
+	<color name="yellow" value="#ffffcd"/>
 
 	<!--Global styles-->
 	<style name="background-pattern" background="purple"/>
 	<style name="bracket-match" foreground="orange"/>
 	<style name="cursor" foreground="green"/>
-	<style name="current-line" background="#4C4472"/><!--Light purple.-->
+	<style name="current-line" background="bright_purple"/>
 	<style name="line-numbers" foreground="bright_purple" background="purple"/>
 	<style name="selection" foreground="white" background="purple"/>
 	<style name="search-match" foreground="black" background="orange"/>
@@ -61,4 +61,3 @@ Message included in his config:
 	<style name="diff:changed-line" foreground="yellow" background="blue"/>
 	<style name="diff:removed-line" foreground="yellow" background="red"/>
 </style-scheme>
-
