@@ -14,5 +14,4 @@ comparison to GVim/Sublime original due the optimization for the gedit.
 - https://www.youtube.com/user/GynvaelEN,
 - https://www.youtube.com/user/GynvaelColdwind.
 
-![Screenshot]
-(https://raw.githubusercontent.com/mattmaniak/inkpot-gc-gtk/master/skin.png)
+![Screenshot](https://raw.githubusercontent.com/mattmaniak/inkpot-gc-gtk/master/photo.png)
