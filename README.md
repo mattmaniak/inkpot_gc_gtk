@@ -1,4 +1,4 @@
-# inkpot-gc-gtk
+# Inkpot GC GTK
 
 ## Description
 Gynvael Coldwind's inkpot_gc theme for GVim/Sublime ported to GTK+ editors.
@@ -14,4 +14,4 @@ comparison to GVim/Sublime original due the optimization for the gedit.
 - https://www.youtube.com/user/GynvaelEN,
 - https://www.youtube.com/user/GynvaelColdwind.
 
-![Screenshot](https://gitlab.com/mattmaniak/inkpot-gc-gtk/raw/master/photo.png)
+![Screenshot](https://gitlab.com/mattmaniak/inkpot_gc_gtk/raw/master/photo.png)
