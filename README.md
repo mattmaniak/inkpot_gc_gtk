@@ -15,4 +15,4 @@ due the optimization for the Gedit.
 - https://www.youtube.com/user/GynvaelEN,
 - https://www.youtube.com/user/GynvaelColdwind.
 
-![Screenshot](https://gitlab.com/mattmaniak/inkpot_gc_gtk/raw/master/photo.png)
+![Screenshot](photo.png)
