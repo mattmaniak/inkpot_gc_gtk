@@ -7,6 +7,8 @@ Some colors were taken directly from inkpot_gc.vim, others from YouTube
 screenshots. Some may be a little vary in comparison to GVim/Sublime original
 due the optimization for the Gedit.
 
+![Screenshot](photo.png)
+
 ## The original one:
 - https://github.com/gynvael/stream/blob/master/inne/inkpot_gc.vim.
 
@@ -14,5 +16,3 @@ due the optimization for the Gedit.
 - http://gynvael.coldwind.pl/,
 - https://www.youtube.com/user/GynvaelEN,
 - https://www.youtube.com/user/GynvaelColdwind.
-
-![Screenshot](photo.png)
