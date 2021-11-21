@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  The message included in the Gynvael Coldwind's config.
+  <quote>
+    Vim color file
+    Name:       inkpot.vim
+    Maintainer: Ciaran McCreesh <ciaran.mccreesh@googlemail.com>
+    Homepage:   http://github.com/ciaranm/inkpot/
+
+    This version contains minor color changes by Gynvael Coldwind. You can find
+    the original version made by Ciaran at http://github.com/ciaranm/inkpot/
+    (check it out, it's great!).
+  </quote>
+-->
+
+<style-scheme id="inkpot_gc_gtk" name="Inkpot GC GTK" version="1.0">
+  <!--Main colors-->
+  <color name="black"         value="#030303"/>
+  <color name="blue"          value="#3d8a86"/>
+  <color name="bright-purple" value="#7e7aba"/>
+  <color name="dark-purple"   value="#1b1c34"/>
+  <color name="green"         value="#5cd089"/>
+  <color name="intense-green" value="#00f804"/>
+  <color name="orange"        value="#dcb071"/>
+  <color name="pink"          value="#ff93c3"/>
+  <color name="purple"        value="#463a75"/>
+  <color name="chrome"        value="#d0d1f7"/>
+  <color name="red"           value="#6e2e2e"/>
+  <color name="white"         value="#ffffff"/>
+  <color name="yellow"        value="#ffffcd"/>
+
+  <!--Global styles-->
+  <style name="bracket-match" foreground="orange"/>
+  <style name="cursor"        foreground="green"/>
+  <style name="current-line"  background="bright-purple"/>
+  <style name="line-numbers"  foreground="bright-purple" background="purple"/>
+  <style name="selection"     foreground="white" background="purple"/>
+  <style name="search-match"  foreground="black" background="orange"/>
+  <style name="text"          foreground="green" background="dark-purple"/>
+  <style name="right-margin"  foreground="bright-purple"
+  background="bright-purple"/>
+
+  <!--Syntax highlighting-->
+  <style name="def:comment"      foreground="intense-green"/>
+  <style name="def:constant"     foreground="orange"/>
+  <style name="def:error"        foreground="white" background="red"/>
+  <style name="def:number"       foreground="orange"/>
+  <style name="def:preprocessor" foreground="blue"/>
+  <style name="def:shebang"      foreground="intense-green" bold="true"/>
+  <style name="def:special-char" foreground="bright-purple"/>
+  <style name="def:statement"    foreground="chrome"/>
+  <style name="def:string"       foreground="orange"/>
+  <style name="def:type"         foreground="pink"/>
+
+  <!--Diff highlighting-->
+  <style name="diff:added-line"   foreground="yellow"
+  background="intense-green"/>
+  <style name="diff:changed-line" foreground="yellow" background="blue"/>
+  <style name="diff:removed-line" foreground="yellow" background="red"/>
+</style-scheme>
