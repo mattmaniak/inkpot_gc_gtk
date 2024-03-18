@@ -17,15 +17,15 @@
 <style-scheme id="inkpot_gc_gtk" name="Inkpot GC GTK" version="1.0">
   <!--Main colors-->
   <color name="black"         value="#030303"/>
-  <color name="blue"          value="#3d8a86"/>
-  <color name="bright-purple" value="#7e7aba"/>
-  <color name="dark-purple"   value="#1b1c34"/>
-  <color name="green"         value="#5cd089"/>
-  <color name="intense-green" value="#00f804"/>
-  <color name="orange"        value="#dcb071"/>
-  <color name="pink"          value="#ff93c3"/>
-  <color name="purple"        value="#463e73"/>
-  <color name="chrome"        value="#d0d1f7"/>
+  <color name="blue"          value="#306b8f"/>
+  <color name="bright-purple" value="#8b8bff"/>
+  <color name="dark-purple"   value="#1b1b33"/>
+  <color name="green"         value="#5ed378"/>
+  <color name="intense-green" value="#00ff00"/>
+  <color name="orange"        value="#f0ad6d"/>
+  <color name="pink"          value="#ff8bff"/>
+  <color name="purple"        value="#3e3e75"/>
+  <color name="chrome"        value="#b7b7f7"/>
   <color name="red"           value="#6e2e2e"/>
   <color name="white"         value="#ffffff"/>
   <color name="yellow"        value="#ffffcd"/>
