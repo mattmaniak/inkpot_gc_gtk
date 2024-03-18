@@ -14,7 +14,7 @@
   </quote>
 -->
 
-<style-scheme id="inkpot_gc_gtk" name="Inkpot GC GTK" version="1.0">
+<style-scheme id="inkpot_gc_gtk" name="Inkpot GC GTK" version="1.1">
   <!--Main colors-->
   <color name="black"         value="#030303"/>
   <color name="blue"          value="#409090"/>
