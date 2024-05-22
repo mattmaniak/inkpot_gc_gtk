@@ -10,9 +10,9 @@ due the optimization for the Gedit.
 ![Screenshot](photo.png)
 
 ## The original one:
-- https://github.com/gynvael/stream/blob/master/inne/inkpot_gc.vim.
+- https://github.com/gynvael/stream/blob/master/inne/inkpot_gc.vim
 
 ## Check:
-- http://gynvael.coldwind.pl/,
-- https://www.youtube.com/user/GynvaelEN,
-- https://www.youtube.com/user/GynvaelColdwind.
+- http://gynvael.coldwind.pl/
+- https://www.youtube.com/user/GynvaelEN
+- https://www.youtube.com/user/GynvaelColdwind
