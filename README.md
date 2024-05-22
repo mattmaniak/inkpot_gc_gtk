@@ -1,4 +1,4 @@
-# <img src='icon.png' width='32'> Inkpot GC GTK
+# Inkpot GC GTK
 
 ## Description
 Gynvael Coldwind's inkpot_gc theme for GVim/Sublime ported to GTK+ editors.
