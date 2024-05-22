@@ -17,18 +17,19 @@
 <style-scheme id="inkpot_gc_gtk" name="Inkpot GC GTK" version="1.0">
   <!--Main colors-->
   <color name="black"         value="#030303"/>
-  <color name="blue"          value="#409090"/>
-  <color name="bright-purple" value="#7e7eae"/>
-  <color name="dark-purple"   value="#1e1e27"/>
-  <color name="green"         value="#5cd089"/>
-  <color name="intense-green" value="#00ff8b"/>
-  <color name="orange"        value="#cd8b00"/>
+  <color name="blue"          value="#306b8f"/>
+  <color name="bright-purple" value="#8b8bcd"/>
+  <color name="dark-purple"   value="#1b1b33"/>
+  <color name="green"         value="#5ed378"/>
+  <color name="intense-green" value="#00ff00"/>
+  <color name="orange"        value="#ce8e4e"/>
   <color name="pink"          value="#ff8bff"/>
-  <color name="purple"        value="#4b208f"/>
-  <color name="chrome"        value="#d0d1f7"/>
-  <color name="red"           value="#6e2e2e"/>
-  <color name="white"         value="#ffffff"/>
-  <color name="yellow"        value="#ffcd00"/>
+  <color name="purple"        value="#3e3e75"/>
+  <color name="chrome"        value="#b7b7f7"/>
+  <color name="dark-red"      value="#6d3030"/>
+  <color name="red"           value="#ce4e4e"/>
+  <color name="white"         value="#eeeeee"/>
+  <color name="yellow"        value="#ffffcd"/>
 
   <!--Global styles-->
   <style name="bracket-match" foreground="orange"/>
@@ -57,5 +58,5 @@
   <style name="diff:added-line"   foreground="yellow"
   background="intense-green"/>
   <style name="diff:changed-line" foreground="yellow" background="blue"/>
-  <style name="diff:removed-line" foreground="yellow" background="red"/>
+  <style name="diff:removed-line" foreground="yellow" background="dark-red"/>
 </style-scheme>
