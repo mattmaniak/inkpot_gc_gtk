@@ -37,7 +37,7 @@
   <style name="current-line"  background="bright-purple"/>
   <style name="line-numbers"  foreground="bright-purple" background="purple"/>
   <style name="selection"     foreground="white" background="purple"/>
-  <style name="search-match"  foreground="black" background="orange"/>
+  <style name="search-match"  foreground="orange" background="purple"/>
   <style name="text"          foreground="green" background="dark-purple"/>
   <style name="right-margin"  foreground="bright-purple"
   background="bright-purple"/>
